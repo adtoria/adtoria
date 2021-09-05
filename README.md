@@ -1,3 +1,3 @@
-Hey, I'm Aditi!👋
+# Hey, I'm Aditi!👋
 
-I am an avid learner currently studying Information Technology at IIIT Allahabad.
+### I am a tech enthusiast & an avid learner currently studying Information Technology at IIIT Allahabad.
