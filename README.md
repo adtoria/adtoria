@@ -1,3 +1,4 @@
-### Hey, I'm Aditi!👋
+# <p align="center"> Hey!👋 </p>
+## <p align="center"> I'm Aditi. </p>
 
-#### I am a tech enthusiast & an avid learner currently studying Information Technology at IIIT Allahabad.
+### <p align="center"> I am a tech enthusiast & an avid learner currently studying Information Technology at IIIT Allahabad. </p>
