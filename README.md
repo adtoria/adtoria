@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Heyyy! I'm Aditi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+<h2> Hey! I'm Aditi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 <br>
 
 ![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adtoria&count_private=true&show_icons=true&theme=dracula&&hide_border=true&include_all_commits=true)
