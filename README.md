@@ -6,7 +6,7 @@
 
 <h3>Languages & Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,go,java,js,html,css,expressjs,nodejs,dart,flutter,mysql,firebase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,java,js,html,css,expressjs,nodejs,dart,flutter,androidstudio,mysql,firebase,git)](https://skillicons.dev)
 
 <br>
 
